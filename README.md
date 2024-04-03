@@ -4,7 +4,7 @@ Estudante de programação cursando Análise e Desenovlvimento de Sistemas.
 
 Buscando conhecimento e adquirindo experiência atráves de cursos e projetos.
 
-Atualmente focado nos estudos de React, NodeJS e MongoDB.
+Atualmente focado nos estudos de React, NodeJS e PostgreSQL.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ruan-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
