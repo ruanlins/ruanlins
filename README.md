@@ -11,7 +11,7 @@ Atualmente focado nos estudos de React, NodeJS e PostgreSQL.
 
 </br>
 
-![My Skills](https://skillicons.dev/icons?i=ts,react,next,vite,nodejs,express,postgresql,prisma,mongodb,vitest,npm,html,css,)
+![My Skills](https://skillicons.dev/icons?i=ts,react,next,vite,tailwind,nodejs,express,postgresql,mongodb,prisma,vitest,npm)
 
 ##
 
@@ -21,9 +21,12 @@ Atualmente focado nos estudos de React, NodeJS e PostgreSQL.
 </div>
 
 <h1>Entre em contato comigo!
-  <p></p>
-  <div> 
-  <a href="https://www.linkedin.com/in/ruanblins" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:ruanblins@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div></h1>
+<p></p>
+  
+<a href="https://www.linkedin.com/in/ruanblins" target="_blank"> ![My Skills](https://skillicons.dev/icons?i=linkedin) </a>
+<a href = "mailto:ruanblins@gmail.com" target="_blank"> ![My Skills](https://skillicons.dev/icons?i=gmail) </a>
+
+</h1>
+
+  
 
