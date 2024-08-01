@@ -9,9 +9,15 @@ Buscando conhecimento e adquirindo experiência atráves de cursos e projetos.
 
 Atualmente focado nos estudos de React, NodeJS e PostgreSQL.
 
-</br>
 
-![My Skills](https://skillicons.dev/icons?i=ts,react,next,vite,tailwind,nodejs,express,postgresql,mongodb,prisma,vitest,npm)
+### Frontend
+![My Skills](https://skillicons.dev/icons?i=ts,react,next,vite,tailwind)
+
+### Backend
+![My Skills](https://skillicons.dev/icons?i=nodejs,express,dotnet,postgresql,mongodb,prisma)
+
+### Complementares
+![My Skills](https://skillicons.dev/icons?i=docker,vitest,npm,figma)
 
 ##
 
